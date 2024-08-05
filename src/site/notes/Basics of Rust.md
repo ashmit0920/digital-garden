@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/basics-of-rust/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/basics-of-rust/"}
 ---
 
 
