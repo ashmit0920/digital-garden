@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/basics-of-rust/"}
 ---
 
-
+# Basics of Rust
 #### 1. Introduction:
 - Rust is a systems programming language focused on safety, speed, and concurrency.
 - It aims to provide memory safety without using a garbage collector, and it achieves this through a system of ownership with a set of rules that the compiler checks at compile time.
