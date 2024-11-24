@@ -14,3 +14,4 @@
 
 ### Coursework
 1. [[Introduction to Cybersecurity\|Introduction to Cybersecurity]]
+2. [[Prob Stats assignment\|Prob Stats assignment]]
